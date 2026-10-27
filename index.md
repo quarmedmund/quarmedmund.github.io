@@ -26,13 +26,15 @@ title: "Home"
          class="profile-pic">
 
     <div class="about-text">
-      <h1>Hello World! I'm Michael Shoemaker</h1>
-      <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
-      <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-      <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
+      <h1>Hello World! I'm Edmund Quam</h1>
+      <p>Data Engineering/Analyst | Research | Human Centered Technology</p>
+      <p>I work at the intersection of UX research, data analysis, data engineering, and responsible AI. With a Master's degree in Computational Social Systems from RWTH Aachen University, I combine quantitative methods, computational skills, and human-centred research to understand user behaviour and generate actionable insights.
+
+My interests include human–technology interaction, human–robot interaction, algorithmic fairness, and building reliable data workflows to support evidence-based decisions.</p>
+      <p><strong>Core skills:</strong> Python · SQL · Databricks · Spark </p>
 
       <p class="social-links">
-        <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
+        <a href="www.linkedin.com/in/ekowquarm" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
         <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
